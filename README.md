@@ -50,4 +50,4 @@ Follow the usage instructions below to run the project.
 
 
 ## Contributor
-Dinesh Buruboyina
+Karmegam Gokulakrishnan 
